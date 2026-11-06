@@ -1,0 +1,6 @@
+{
+  "name": "CourtVision Basketball Tracker",
+  "description": "Basketball performance, shooting percentage, skill drills, and athletic metrics tracking with interactive court shot charts and trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
